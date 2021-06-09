@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sns-exam-frontend/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/sns-exam-frontend/static/js/main.e9ef5442.chunk.js",
+    "main.js.map": "/sns-exam-frontend/static/js/main.e9ef5442.chunk.js.map",
+    "runtime-main.js": "/sns-exam-frontend/static/js/runtime-main.63a77e8c.js",
+    "runtime-main.js.map": "/sns-exam-frontend/static/js/runtime-main.63a77e8c.js.map",
+    "static/css/2.7d64f28b.chunk.css": "/sns-exam-frontend/static/css/2.7d64f28b.chunk.css",
+    "static/js/2.619f6dac.chunk.js": "/sns-exam-frontend/static/js/2.619f6dac.chunk.js",
+    "static/js/2.619f6dac.chunk.js.map": "/sns-exam-frontend/static/js/2.619f6dac.chunk.js.map",
+    "static/js/3.2417e4a0.chunk.js": "/sns-exam-frontend/static/js/3.2417e4a0.chunk.js",
+    "static/js/3.2417e4a0.chunk.js.map": "/sns-exam-frontend/static/js/3.2417e4a0.chunk.js.map",
+    "index.html": "/sns-exam-frontend/index.html",
+    "static/css/2.7d64f28b.chunk.css.map": "/sns-exam-frontend/static/css/2.7d64f28b.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/sns-exam-frontend/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.619f6dac.chunk.js.LICENSE.txt": "/sns-exam-frontend/static/js/2.619f6dac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sns-exam-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63a77e8c.js",
+    "static/css/2.7d64f28b.chunk.css",
+    "static/js/2.619f6dac.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e9ef5442.chunk.js"
+  ]
+}
